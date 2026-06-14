@@ -44,14 +44,15 @@ Soy estudiante de Ingeniería en Sistemas con interés en calidad de software, D
 
 ## 🚀 Proyectos Destacados
 
-| Proyecto                              | Descripción                                                                                               | Repositorio                                           |
-| ------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| **Commerce4U**                        | Sistema de gestión e inventario con mejoras de UI/UX, filtros, exportación y gestión de usuarios.         | https://github.com/Daniela_Sol/Commerce4U             |
-| **Mini-C Compiler**                   | Compilador tipo C++ con análisis léxico y sintáctico desarrollado en C#.                                  | https://github.com/tuusuario/Mini-C-Compiler          |
-| **DevSecOps Pipeline**                | Implementación de una canalización CI/CD integrando automatización y seguridad.                           | https://github.com/DanielaSol-22/devsecops-pipeline.git      |
-| **Tuleap ALM Workflow**               | Gestión del ciclo de vida del desarrollo utilizando Tuleap y metodologías ágiles.                         | https://github.com/tuusuario/tuleap-workflow          |
-| **Cypress Testing Suite**             | Automatización de pruebas end-to-end enfocadas en calidad de software.                                    | https://github.com/tuusuario/cypress-testing          |
-| **Network Labs**                      | Configuraciones y prácticas relacionadas con redes y preparación CCNA.                                    | https://github.com/tuusuario/network-labs             | 
+| Proyecto                            | Enfoque                                                                               | Tecnologías                       | Repositorio                                            |
+| ----------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------- | ------------------------------------------------------ |
+| 🔐 **DevSecOps Pipeline**           | Integración de prácticas DevSecOps, automatización y seguridad en CI/CD.              | Jenkins, Docker, OWASP, SonarQube | 🔗 https://github.com/DanielaSol-22/devsecops-pipeline |
+| 🐳 **Docker Infrastructure**        | Infraestructura basada en contenedores para despliegue y administración de servicios. | Docker, Docker Compose            | 🔗 https://github.com/DanielaSol-22/docker-infra       |
+| ⚙️ **Jenkins DevSecOps**            | Implementación de pipelines CI/CD con integración de herramientas de seguridad.       | Jenkins, Pipelines, DevSecOps     | 🔗 https://github.com/DanielaSol-22/Jenkins-Devsecops  |
+| 🧪 **Cypress Framework**            | Framework reutilizable para automatización de pruebas web.                            | Cypress, JavaScript, POM          | 🔗 https://github.com/DanielaSol-22/cypress-framework  |
+| ✅ **Cypress E2E Suite**             | Pruebas End-to-End para validar funcionalidades completas de aplicaciones web.        | Cypress, E2E Testing, API Testing | 🔗 https://github.com/DanielaSol-22/cypress-e2e-suite  |
+| 🤖 **Inteligencia Artificial (IA)** | Proyectos y experimentos relacionados con IA, Machine Learning y automatización.      | Python, Machine Learning          | 🔗 https://github.com/DanielaSol-22/IA                 |
+
 
 ---
 
