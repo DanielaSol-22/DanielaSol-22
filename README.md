@@ -1,8 +1,7 @@
 # 👋 Hola, soy Daniela Esther Solórzano Sierra
 
 ## Sobre mí
-Soy estudiante de Ingeniería en Sistemas con interés en calidad de software, DevSecOps, automatización, gestión ágil e investigación en ingeniería de software. Me apasiona aplicar buenas prácticas para desarrollar soluciones seguras, mantenibles y orientadas a la mejora continua.
-> *QA & DevSecOps enthusiast focused on software quality, CI/CD automation, secure development practices, and software maintainability research.*
+Soy estudiante de Ingeniería en Sistemas, DevSecOps, automatización, gestión ágil e investigación en ingeniería de software. Me apasiona aplicar buenas prácticas para desarrollar soluciones seguras, mantenibles y orientadas a la mejora continua.
 
 ---
 
@@ -68,5 +67,6 @@ Soy estudiante de Ingeniería en Sistemas con interés en calidad de software, D
 
 ## 📫 Contacto
 * Email: solorzanodaniela@gmail.com
+* GitHub: https://github.com/DanielaSol-22
 
 ⭐ Gracias por visitar mi perfil. Siempre estoy abierta a aprender, colaborar en nuevos proyectos y enfrentar desafíos que contribuyan a construir software de mayor calidad y seguridad.
