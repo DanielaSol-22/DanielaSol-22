@@ -48,7 +48,7 @@ Soy estudiante de Ingeniería en Sistemas con interés en calidad de software, D
 | ------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
 | **Commerce4U**                        | Sistema de gestión e inventario con mejoras de UI/UX, filtros, exportación y gestión de usuarios.         | https://github.com/Daniela_Sol/Commerce4U             |
 | **Mini-C Compiler**                   | Compilador tipo C++ con análisis léxico y sintáctico desarrollado en C#.                                  | https://github.com/tuusuario/Mini-C-Compiler          |
-| **DevSecOps Pipeline**                | Implementación de una canalización CI/CD integrando automatización y seguridad.                           | https://github.com/tuusuario/devsecops-pipeline       |
+| **DevSecOps Pipeline**                | Implementación de una canalización CI/CD integrando automatización y seguridad.                           | https://github.com/DanielaSol-22/devsecops-pipeline.git      |
 | **Tuleap ALM Workflow**               | Gestión del ciclo de vida del desarrollo utilizando Tuleap y metodologías ágiles.                         | https://github.com/tuusuario/tuleap-workflow          |
 | **Cypress Testing Suite**             | Automatización de pruebas end-to-end enfocadas en calidad de software.                                    | https://github.com/tuusuario/cypress-testing          |
 | **Network Labs**                      | Configuraciones y prácticas relacionadas con redes y preparación CCNA.                                    | https://github.com/tuusuario/network-labs             | 
